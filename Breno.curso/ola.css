@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(35, 37, 37);
+    color: white;
+}
+
+img {
+    width: auto;
+}
+
+a {
+    color: bisque;
+    text-decoration: none;
+}
+
+button {
+    border: 2px none black;
+    border-radius: 10px;
+    background-color: rgb(92, 92, 92);
+}

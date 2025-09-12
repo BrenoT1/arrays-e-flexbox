@@ -1,0 +1,106 @@
+body {
+    background-color: #242424;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 30px;
+}
+
+.pai-dos-cartoes {
+    display: flex;
+    justify-content:center;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
+
+.cartao {
+    color: white;
+    background-color: #ff4654;
+    text-align: center;
+    border: solid 20px #111823;
+    width: 200px;
+    height: fit-content;
+    padding: 20px;
+    margin: 10px;
+    margin-right: 40px;
+}
+
+.cartao2 {
+    color: white;
+    background-color: #FA9C1D;
+    text-align: center;
+    border: solid 20px #4A4C4E;
+    width: 200px;
+    height: fit-content;
+    padding: 20px;
+    margin: 10px;
+}
+
+.cartao3 {
+    color: white;
+    background-color: #404622;
+    text-align: center;
+    border: solid 20px #0F100B;
+    width: 200px;
+    height: fit-content;
+    padding: 20px;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+
+
+button {
+    border-radius: 20px;
+}
+
+.botao1 {
+    border: solid 2px #111823;
+}
+
+.botao2 {
+    border: solid 2px #000000;
+    background-color: #4A4C4E;
+    color: white;
+}
+
+.botao3 {
+    border: solid 2px #0F100B;
+}
+
+.nota1 {
+    background-color: #000000;
+
+}
+.nota2 {
+    
+    background-color: #000000;
+}
+.nota3 {
+    background-color: #000000;
+    height: 300px;
+    
+}
+
+
+.nota1 {
+    display:flex;
+    justify-content: center;
+    justify-items:center;
+    flex-direction: ;
+}
+.nota2 {
+    display:flex;
+    justify-items: center;
+    flex-direction: ;
+}
+.nota3 {
+    display:flex;
+    justify-items: center;
+    flex-direction: column;
+    
+}
